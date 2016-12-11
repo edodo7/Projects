@@ -1,6 +1,7 @@
 # Projects
 * [Improve VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Write a basic emuator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* Write a gameboy emulator
 * Solar System in OpenGL
 * Other cool OpenGL projects:
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
