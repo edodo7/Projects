@@ -11,3 +11,4 @@
 * Hacking by retro-engineering
 * Write a basic game engine
 * [Other cool projects](https://github.com/karan/Projects)
+* [Improve Blender](https://www.blender.org/get-involved/developers/)
