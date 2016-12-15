@@ -3,11 +3,18 @@
 * [Write a basic emuator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * Write a gameboy emulator
 * Solar System in OpenGL
+* Write games in OpenGL
+  * Racing game
+  * FPS
+  * Shooter game
+  * Combat game
+  * Platformer game
 * Other cool OpenGL projects:
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
   * https://openglprojects.com
   * http://graphicscodex.com/projects/projects/
 * [Doing animation in OpenGL](http://ephenationopengl.blogspot.be/2012/06/doing-animations-in-opengl.html)
+* [Write 2D games](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 * Hacking by retro-engineering
 * Write a basic game engine
 * [Other cool projects](https://github.com/karan/Projects)
