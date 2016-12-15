@@ -9,6 +9,7 @@
   * Shooter game
   * Combat game
   * Platformer game
+  * Minecraft
 * Other cool OpenGL projects:
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
   * https://openglprojects.com
