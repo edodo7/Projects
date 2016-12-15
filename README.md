@@ -7,9 +7,11 @@
   * Racing game
   * FPS
   * Shooter game
-  * Combat game
-  * Platformer game
 * Other cool OpenGL projects:
+  * [Fuild simulation](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch30.html)
+  * Raytracer
+  * Pathtracer
+  * Lightmapper
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
   * https://openglprojects.com
   * http://graphicscodex.com/projects/projects/
