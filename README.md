@@ -12,6 +12,7 @@
   * Raytracer
   * Pathtracer
   * Lightmapper
+  * http://www.crazyengineers.com/threads/computer-graphics-project-ideas-topics-for-cs-it-students.58544/
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
   * https://openglprojects.com
   * http://graphicscodex.com/projects/projects/
