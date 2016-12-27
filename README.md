@@ -23,3 +23,4 @@
 * [Other cool projects](https://github.com/karan/Projects)
 * [Improve Blender](https://www.blender.org/get-involved/developers/)
   * [Some cool plugins ideas](https://blenderartists.org/forum/showthread.php?361944-Ideas-for-addon&s=7606f06efc236814ca3d5041a2e10847)
+* Improve Ogre3D
