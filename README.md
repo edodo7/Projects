@@ -1,5 +1,5 @@
 # Projects
-* [Improve VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
+* [Start improving VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Write a basic emuator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * Write a gameboy emulator
 * Solar System in OpenGL
@@ -7,7 +7,7 @@
   * Racing game
   * FPS
   * Shooter game
-* Other cool OpenGL projects:
+* Other cool **advanced** OpenGL projects:
   * [Fuild simulation](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch30.html)
   * Raytracer
   * Pathtracer
@@ -21,6 +21,6 @@
 * Hacking by retro-engineering
 * Write a basic game engine
 * [Other cool projects](https://github.com/karan/Projects)
-* [Improve Blender](https://www.blender.org/get-involved/developers/)
-  * [Some cool plugins ideas](https://blenderartists.org/forum/showthread.php?361944-Ideas-for-addon&s=7606f06efc236814ca3d5041a2e10847)
-* Improve Ogre3D
+* [Start improving Blender](https://wiki.blender.org/index.php/Dev:Contents)
+  * [Some **advanced** cool plugins ideas](https://blenderartists.org/forum/showthread.php?361944-Ideas-for-addon&s=7606f06efc236814ca3d5041a2e10847)
+* Start improving Ogre3D
