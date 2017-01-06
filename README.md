@@ -25,3 +25,12 @@
   * [Some **advanced** cool plugins ideas](https://blenderartists.org/forum/showthread.php?361944-Ideas-for-addon&s=7606f06efc236814ca3d5041a2e10847)
 * Start improving Ogre3D
 * [Start use and improve Bullet](https://github.com/bulletphysics/bullet3/tree/master/docs)
+* Write game tools
+  * level editor (actor placement, navigation meshes, particles, boundary regions, etc)
+  * art prototype catalogue/database
+  * animation/cinematic editor
+  * material/shader editor
+  * plug-ins
+  * build tools
+  * data messaging tools
+  * lighting tools
