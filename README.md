@@ -1,7 +1,7 @@
 # Projects
 * [Start improving VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Start improving GNOME](https://wiki.gnome.org/Newcomers/)
-* [Write a basic emuator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [Write a chip 8 emuator](http://jeux.developpez.com/tutoriels/programmer-emulateur-console/)
 * Write a gameboy emulator
 * Solar System in OpenGL
 * Write games in OpenGL
