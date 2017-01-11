@@ -27,6 +27,9 @@
 * Start improving Ogre3D
 * [Start use and improve Bullet](https://github.com/bulletphysics/bullet3/tree/master/docs)
 * Write game tools
+  * 2D tile map editor (Some inspirational websites below)
+    * https://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-creating-a-tile-map-engine--gamedev-10900
+    * http://doc.mapeditor.org/
   * level editor (actor placement, navigation meshes, particles, boundary regions, etc)
   * art prototype catalogue/database
   * animation/cinematic editor
