@@ -1,4 +1,5 @@
 # Projects
+* Learn C++
 * [Start improving VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Start improving GNOME](https://wiki.gnome.org/Newcomers/)
 * [Write a chip 8 emuator](http://jeux.developpez.com/tutoriels/programmer-emulateur-console/)
