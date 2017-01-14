@@ -38,4 +38,4 @@
   * build tools
   * data messaging tools
   * lighting tools
-  * [Web projects](https://www.codecademy.com/en/tracks/projects)
+* [Web projects](https://www.codecademy.com/en/tracks/projects)
