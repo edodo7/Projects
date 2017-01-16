@@ -43,3 +43,4 @@
 * Learn Ocaml
 * Learn Pharo
 * [Contribute to Minetest](http://dev.minetest.net/)
+* [Contribute to GLPortal](https://github.com/GlPortal/glPortal/blob/master/CONTRIBUTE.md)
