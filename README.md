@@ -42,3 +42,4 @@
 * [Web projects](https://www.codecademy.com/en/tracks/projects)
 * Learn Ocaml
 * Learn Pharo
+* [Contribute to Minetest](http://dev.minetest.net/)
