@@ -44,3 +44,4 @@
 * Learn Pharo
 * [Contribute to Minetest](http://dev.minetest.net/)
 * [Contribute to GLPortal](https://github.com/GlPortal/glPortal/blob/master/CONTRIBUTE.md)
+* [Contribute to Stunt Rally](http://stuntrally.tuxfamily.org/wiki/doku.php?id=contributing)
