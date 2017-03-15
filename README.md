@@ -1,4 +1,5 @@
 # Projects
+* Implement game of life
 * Learn C++
 * [Start improving VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Start improving GNOME](https://wiki.gnome.org/Newcomers/)
