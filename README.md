@@ -45,6 +45,5 @@
 * Learn Pharo
 * [Contribute to Minetest](http://dev.minetest.net/)
 * [Contribute to GLPortal](https://github.com/GlPortal/glPortal/blob/master/CONTRIBUTE.md)
-* [Contribute to Stunt Rally](http://stuntrally.tuxfamily.org/wiki/doku.php?id=contributing)
 * [Contriute to Tuxemon](https://forum.tuxemon.org/thread.php?id=11)
 * [Contribute to Unreal Tournament](https://wiki.unrealengine.com/Category:Unreal_Tournament)
