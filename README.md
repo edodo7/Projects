@@ -1,12 +1,13 @@
 # Projects
 * Implement game of life
 * Learn C++
-* [Start improving VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
-* [Start improving GNOME](https://wiki.gnome.org/Newcomers/)
+* [Contribute to VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
+* [Contribute to GNOME](https://wiki.gnome.org/Newcomers/)
 * [Write a chip 8 emuator](http://jeux.developpez.com/tutoriels/programmer-emulateur-console/)
 * Write a gameboy emulator
-* Solar System in OpenGL
+* Make a solar system in OpenGL
 * Write games in OpenGL
+  * Minecraft
   * Racing game
   * FPS
   * Shooter game
@@ -19,15 +20,17 @@
   * http://www.codingparks.com/opengl-project-ideas-for-final-year-engineering-students/
   * https://openglprojects.com
   * http://graphicscodex.com/projects/projects/
-* [Doing animation in OpenGL](http://ephenationopengl.blogspot.be/2012/06/doing-animations-in-opengl.html)
+* [Get involved in OpenGL](http://ephenationopengl.blogspot.be/2012/06/doing-animations-in-opengl.html)
 * [Write 2D games](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
-* Hacking by retro-engineering
+  * wario land super mario land 3
+* Write a basic 2D rendering engine
+* Make some hacking by retro-engineering
 * Write a basic game engine
 * [Other cool projects](https://github.com/karan/Projects)
-* [Start improving Blender](https://wiki.blender.org/index.php/Dev:Contents)
+* [Contribute to Blender](https://wiki.blender.org/index.php/Dev:Contents)
   * [Some **advanced** cool plugins ideas](https://blenderartists.org/forum/showthread.php?361944-Ideas-for-addon&s=7606f06efc236814ca3d5041a2e10847)
-* Start improving Ogre3D
-* [Start use and improve Bullet](https://github.com/bulletphysics/bullet3/tree/master/docs)
+* Contribute to Ogre3D
+* [Contribute to Bullet](https://github.com/bulletphysics/bullet3/tree/master/docs)
 * Write game tools
   * 2D tile map editor (Some inspirational websites below)
     * https://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-creating-a-tile-map-engine--gamedev-10900
