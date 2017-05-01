@@ -21,8 +21,10 @@
   * https://openglprojects.com
   * http://graphicscodex.com/projects/projects/
 * [Get involved in OpenGL](http://ephenationopengl.blogspot.be/2012/06/doing-animations-in-opengl.html)
-* [Write 2D games](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+* Write 2D games
   * wario land super mario land 3
+  * Flappy Bird's clone on Android
+  * The binding of Isaac's clone
 * Write a basic 2D rendering engine
 * Make some hacking by retro-engineering
 * Write a basic game engine
