@@ -25,6 +25,7 @@
   * wario land super mario land 3
   * Flappy Bird's clone on Android
   * The binding of Isaac's clone
+  * Metal Slug's clone
 * Write a basic 2D rendering engine
 * Make some hacking by retro-engineering
 * Write a basic game engine
