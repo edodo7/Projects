@@ -1,6 +1,7 @@
-# Projects
+# Projects-List
+A list of cool projects I should do below : 
 * Implement game of life
-* Learn C++
+* ~~Learn C++~~
 * [Contribute to VLC](https://wiki.videolan.org/Getting_Started_At_Coding/)
 * [Contribute to GNOME](https://wiki.gnome.org/Newcomers/)
 * [Write a chip 8 emuator](http://jeux.developpez.com/tutoriels/programmer-emulateur-console/)
