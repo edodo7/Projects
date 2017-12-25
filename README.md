@@ -23,6 +23,13 @@ A list of cool projects I should do below :
   * http://graphicscodex.com/projects/projects/
 * [Get involved in OpenGL](http://ephenationopengl.blogspot.be/2012/06/doing-animations-in-opengl.html)
 * Write 2D games
+  * Tetris
+  * Doodle Jump
+  * Arkanoid
+  * Snake
+  * Minesweeper
+  * Chess
+  * 15-puzzle
   * wario land super mario land 3
   * Flappy Bird's clone on Android
   * The binding of Isaac's clone
