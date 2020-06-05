@@ -54,7 +54,6 @@ A list of cool projects I should do below :
   * build tools
   * data messaging tools
   * lighting tools
-* [Web projects](https://www.codecademy.com/en/tracks/projects)
 * [Contribute to Minetest](http://dev.minetest.net/)
 * [Contribute to GLPortal](https://github.com/GlPortal/glPortal/blob/master/CONTRIBUTE.md)
 * [Contriute to Tuxemon](https://forum.tuxemon.org/thread.php?id=11)
